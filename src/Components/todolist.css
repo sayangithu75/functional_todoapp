@@ -1,0 +1,35 @@
+.ul,li{
+    list-style-type:none;
+    margin-right: 50px;
+    margin-top: 10px;
+    background-color: aqua;
+    width:fit-content;
+    padding:5px;
+    border-radius: 10px;
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  input{
+    font-size:large;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+  button{
+    font-size:large;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+
+  .list{
+    margin:  auto;
+    width: fit-content;
+    padding: 10px;
+  }
+
+  h1{
+    background-color: rgb(163, 234, 77);
+    border-radius: 5px;
+  }
